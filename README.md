@@ -1,5 +1,5 @@
 # Sentiment140
-A multi-channel convolutional neural network for sentiment detection
+A multi-channel convolutional neural network for sentiment detection. As the name suggests, it uses the Sentiment140 dataset, which is the biggest I've found so far.
 
 An LSTM would probably work better for this problem, but I wanted to try a CNN. It mostly works.
 
